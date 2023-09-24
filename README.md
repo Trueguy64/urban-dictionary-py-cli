@@ -1,0 +1,1 @@
+Get Urban Dictionary Definitions Through a CLI
